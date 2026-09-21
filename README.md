@@ -30,7 +30,7 @@ To view the micropython code inside the device simply type in
 
 To copy the files into your own file system. Note that the src
 should be prefixed by ":" (eg. ":main.py")
-> mpremote cp <src> <dest>
+> mpremote cp \<src\> \<dest\>
 
 ## Notes
 Sensitive details from the config.txt and webrepl_cfg.py file has been removed.
