@@ -35,3 +35,4 @@ should be prefixed by ":" (eg. ":main.py")
 ## Notes
 Sensitive details from the config.txt and webrepl_cfg.py file has been removed.
 Before putting the file in the esp8266MOD, fill in the appropriate details.
+Further information about the device is found in: https://github.com/DoESLiverpool/somebody-should/wiki/ESP-devices
