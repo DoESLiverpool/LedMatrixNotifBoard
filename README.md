@@ -6,7 +6,8 @@ features currently in development.
 ## Installation
 
 TBD. I suspect that mpflash will be needed or other flashing tool.
-However, I have not yet tried to flash anything on the device.
+However, I have not yet tried to flash anything on the device. Moreover,
+I have not checked if mpremote could also be used for this.
 
 ## Utilities 
 
