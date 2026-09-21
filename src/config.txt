@@ -1,0 +1,8 @@
+wifiname  
+wifipassword 
+mqttbroker 
+pinled       -2
+pinsck       14
+pincs        15
+pinmosi      13
+numledchars  20
